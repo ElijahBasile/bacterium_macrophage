@@ -1,0 +1,5 @@
+<Simulation version="3.6.2">
+   <XMLScript Type="XMLScript">Simulation/bac_macro.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/bac_macro.py</PythonScript>
+   <Resource Type="Python">Simulation/bac_macroSteppables.py</Resource>
+</Simulation>
